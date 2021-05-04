@@ -1,0 +1,14 @@
+body{
+    background-color: fuchsia;
+}
+#case_img{
+    height: 100px;
+    width: 100px;
+}
+p{
+    background-color: grey; 
+    color: ivory;
+}
+.h{
+    background-color: indigo;
+}
